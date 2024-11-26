@@ -1,0 +1,4 @@
+enum ImageEnums {
+  network,
+  normal,
+}
